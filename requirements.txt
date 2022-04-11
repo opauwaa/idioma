@@ -1,0 +1,9 @@
+APScheduler==3.9.1
+beautifulsoup4==4.11.1
+Flask==2.0.2
+Pillow==9.1.0
+pt-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.2.0/pt_core_news_sm-3.2.0-py3-none-any.whl
+requests==2.26.0
+ru-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ru_core_news_sm-3.2.0/ru_core_news_sm-3.2.0-py3-none-any.whl
+spacy==3.2.2
+SQLAlchemy==1.4.31
