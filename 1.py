@@ -10,6 +10,11 @@ import pt_core_news_sm
 
 
 app = Flask(__name__)
+
+@app.route("/")
+def index():
+    return "Привет от приложения Идиомотека"
+
 @app.route('/post', methods=['POST'])
 def main():
     response = {
